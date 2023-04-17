@@ -1,0 +1,10 @@
+C:\Users\arda.halim\Desktop\C#\vadjagvill\vadjagvill\bin\Debug\vadjagvill.exe
+C:\Users\arda.halim\Desktop\C#\vadjagvill\vadjagvill\bin\Debug\vadjagvill.pdb
+C:\Users\arda.halim\Desktop\C#\vadjagvill\vadjagvill\obj\Debug\vadjagvill.csproj.AssemblyReference.cache
+C:\Users\arda.halim\Desktop\C#\vadjagvill\vadjagvill\obj\Debug\vadjagvill.Form1.resources
+C:\Users\arda.halim\Desktop\C#\vadjagvill\vadjagvill\obj\Debug\vadjagvill.Properties.Resources.resources
+C:\Users\arda.halim\Desktop\C#\vadjagvill\vadjagvill\obj\Debug\vadjagvill.csproj.GenerateResource.cache
+C:\Users\arda.halim\Desktop\C#\vadjagvill\vadjagvill\obj\Debug\vadjagvill.csproj.CoreCompileInputs.cache
+C:\Users\arda.halim\Desktop\C#\vadjagvill\vadjagvill\obj\Debug\vadjagvill.exe
+C:\Users\arda.halim\Desktop\C#\vadjagvill\vadjagvill\obj\Debug\vadjagvill.pdb
+C:\Users\arda.halim\Desktop\C#\vadjagvill\vadjagvill\obj\Debug\vadjagvill.Form2.resources
